@@ -1,0 +1,9 @@
+torch
+torchaudio
+openai-whisper
+transformers
+sentencepiece
+gtts
+pyttsx3
+PyQt5
+requests
