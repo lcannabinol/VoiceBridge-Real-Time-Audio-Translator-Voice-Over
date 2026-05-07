@@ -4,7 +4,7 @@
 
 ## Быстрый старт
 
-1. Установите **Python 3.9+**: https://python.org (при установке ✓ "Add Python to PATH")
+1. Установите Python 3.11 https://python.org (при установке ✓ "Add Python to PATH")
 2. Дважды кликните **START.bat**
 3. Следуйте мастеру установки (4 шага)
 
